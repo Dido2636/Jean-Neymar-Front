@@ -9,7 +9,7 @@ import Oeuvres from "./pages/Oeuvres";
 function App() {
   return (
     <>
-      <Router>
+      {/* <Router> */}
         <Navbar />
 
         <Routes>
@@ -17,7 +17,7 @@ function App() {
           <Route path="/about" element={<Apropos />} />
           <Route path="/book" element={<Oeuvres />} />
         </Routes>
-      </Router>
+      {/* </Router> */}
     </>
   );
 }
