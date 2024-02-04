@@ -1,8 +1,10 @@
-import { Router, Routes, Route } from "react-router-dom";
-import Accueil from "./pages/Acceuil";
+import { Route, Router, Routes } from "react-router-dom";
+import Accueil from "./pages/Accueil";
 import Navbar from "./components/Navbar";
 import Apropos from "./pages/Apropos";
 import Oeuvres from "./pages/Oeuvres";
+
+
 
 function App() {
   return (
