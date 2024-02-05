@@ -6,6 +6,7 @@ function Navbar() {
  
   return (
     <>
+    <aside className="sideBar">
       <Link to="/">
         <button>Acceuil</button>
       </Link>
@@ -17,6 +18,7 @@ function Navbar() {
       <Link to="/books">
         <button>Oeuvres</button>
       </Link>
+    </aside>
    
     </>
   );

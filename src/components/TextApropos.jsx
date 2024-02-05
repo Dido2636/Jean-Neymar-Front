@@ -5,7 +5,10 @@ function TextApropos() {
 
     return(
         <>
-
+      <img
+        src="https://jean-neymar.netlify.app/static/media/photo.9cb50d5b.jpg"
+        alt="photo"
+      />
         <h3>Jean Neymar, auteur visionnaire</h3>
 
         <p>m ipsum dolor, sit amet consectetur adipisicing elit. Dolorem molestias, repudiandae consequatur ullam nisi ab sunt nesciunt vitae ratione provident qui, officia voluptatibus dicta, blanditiis iste esse iusto voluptates ea. Hic a alias fugiat sapiente minima ea debitis nostrum nulla? Beatae illo atque quod a dolorem facilis ab eum delectus? Cum nobis quia consequuntur? Ad esse aliquid qui, nisi optio ipsam alias sit impedit minus eos blanditiis vitae asperiores perspiciatis velit est necessitatibus laudantium ea deleniti? Fugit debitis tenetur, doloribus minus libero velit modi ullam amet ratione? Fuga in consectetur perspiciatis quibusdam. Consectetur, provident placeat. Magni ut quidem sequi facilis?
